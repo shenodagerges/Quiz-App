@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Add Horizintal Line",
+        "right_answer":"To Add Breakline"
+    },
+    {
+        "title": "Is <img> Element Has Attribute href",
+        "answer_1":"Yes",
+        "answer_2":"No Its For Anchor Tag <a>",
+        "answer_3":"All Elements Has This Attribute",
+        "answer_4":"Answer 1 And 3 Is Right",
+        "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+        "title": "How We Can Make Text Element Bold",
+        "answer_1": "Putting It In <b> Tag",
+        "answer_2": "Putting It In <strong> Tag",
+        "answer_3": "Customizing It With Font-Weight Prperty In CSS",
+        "answer_4": "All Answer Is Right",
+        "right_answer": "All Answer Is Right"
+    },
+    {
+        "title": "Is The Process Of Finding Errors And Fixing Them Within A Program",
+        "answer_1": "Compiling",
+        "answer_2": "Executing",
+        "answer_3": "Debugging",
+        "answer_4": "Scanning",
+        "right_answer": "Debugging"
+    },
+    {
+        "title":"Who sang the title song for the latest Bond film, No Time to Die",
+        "answer_1": "Adele",
+        "answer_2": "Sam Smith",
+        "answer_3": "Billie Eilish",
+        "answer_4": "Ed Sheeran",
+        "right_answer": "Billie Eilish"
+    },
+    {
+        "title": "Which flies a green, white, and orange (in that order) tricolor flag",
+        "answer_1": "Ireland",
+        "answer_2": "Ivory Coast",
+        "answer_3": "Italy",
+        "answer_4": "Germany",
+        "right_answer": "Ireland"
+    },
+    {
+        "title": "What company makes the Xperia model of smartphone",
+        "answer_1": "Samsung",
+        "answer_2": "Sony",
+        "answer_3": "Nokia",
+        "answer_4": "Blackberry",
+        "right_answer": "Sony"
+    },
+    {
+        "title": "Which city is home to the Brandenburg Gate",
+        "answer_1": "Zurich",
+        "answer_2": "Vienna",
+        "answer_3": "Athina",
+        "answer_4": "Berlin",
+        "right_answer": "Berlin"
+    },
+    {
+        "title": "Which of the following is NOT a fruit",
+        "answer_1": "Rhubarb",
+        "answer_2": "Tomatoes",
+        "answer_3": "Avocados",
+        "answer_4": "Pineapple",
+        "right_answer": "Rhubarb"
+    },
+    {
+        "title": "Where was the first example of paper money used",
+        "answer_1": "China",
+        "answer_2": "Turkey",
+        "answer_3": "Egypt",
+        "answer_4": "Greece",
+        "right_answer": "China"
+    },
+    {
+        "title": "Who is generally considered the inventor of the motor car",
+        "answer_1": "Henry Ford",
+        "answer_2": "Karl Benz",
+        "answer_3": "Henry M. Leland",
+        "right_answer": "Karl Benz"
+    },
+    {
+        "title": "If you were looking at Iguazu Falls, on what continent would you be",
+        "answer_1": "Asia",
+        "answer_2": "Africa",
+        "answer_3": "South America",
+        "answer_4": "Eurobe",
+        "right_answer": "South America"
+    },
+    {
+        "title": "What number was the Apollo mission that successfully put a man on the moon for the first time in human history",
+        "answer_1": "Apollo 11",
+        "answer_2": "Apollo 12",
+        "answer_3": "Apollo 13",
+        "answer_4": "Apollo 14",
+        "right_answer": "Apollo 11"
+    }
+    
+]
